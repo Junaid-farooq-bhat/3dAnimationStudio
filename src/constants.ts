@@ -14,7 +14,7 @@ export const SHOWCASE_VIDEOS = [
   { src: '/videos/30637-382483896_medium.mp4', title: 'Abstract Motion' },
   { src: '/videos/133361-756618034_medium.mp4', title: 'Cinematic Scene' },
   { src: '/videos/VN20261022_110822.mp4', title: '3D Product Showcase' },
-  { src: '/videos/131506-750569073_medium.mp4', title: 'Character Animation' },
+  { src: '/videos/199254-909835739_medium.mp4', title: 'Character Animation' },
 ];
 
 export const LEARNING_OUTCOMES = [
