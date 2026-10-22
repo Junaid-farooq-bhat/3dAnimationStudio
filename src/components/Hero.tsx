@@ -38,7 +38,7 @@ export default function Hero() {
 
             <p className="mx-auto mt-5 max-w-xl text-base leading-relaxed text-gray-400 sm:text-lg lg:mx-0">
               Learn to make viral 3D animations like Zack D. Films & Professor of How, realistic
-              product ads, and cinematic scenes.
+              product ads, and cinematic scenes- Lecture Language Hindi.
             </p>
 
             {/* Badges */}
